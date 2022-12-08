@@ -16,10 +16,10 @@ cd ./my-project
 
 ## Docker
 
-You can also use Docker to setup a new Pimcore Installation.
+You can also use Docker to set up a new Pimcore Installation.
 You don't need to have a PHP environment with composer installed.
 
-### Prerequisits
+### Prerequisites
 
 * Your user must be allowed to run docker commands (directly or via sudo).
 * You must have docker-compose installed.
